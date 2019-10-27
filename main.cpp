@@ -23,8 +23,7 @@ int main() {
     getdir(dir,files);
 
     cout << "I'm working on it! And..." << endl;
-    cout << "Just a minute." << endl;
-
+    
     Engine engine;
 
 
