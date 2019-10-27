@@ -8,8 +8,6 @@
 #include "movies.h"
 #include "functions.h"
 #include "engine.h"
-//#include <ctime>
-
 
 using namespace std;
 
