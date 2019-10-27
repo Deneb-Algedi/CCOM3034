@@ -29,7 +29,7 @@ int main() {
         if (files[i].c_str()[0]!='.') {
             vector<string> words = ParsedFile(dir + files[i]).readAndTokenize(); //Get all words
             for (int j = 0; j < words.size(); j++)
-                engine.addToEngine(sanitize(words[j]), files[i]); //Removes capital letters, an non alpha chars
+                engine.addToEngine(sanitize(words[j]), files[i]); //Removes capital letters and non alpha chars
         }
     }
 
