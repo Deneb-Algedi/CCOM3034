@@ -84,7 +84,6 @@ int main() {
     //Exit message
     cout << endl;
     cout << "Hope you found what you were looking for!" <<endl;
-    cout << "And sorry for taking so long to load your files, see you soon." << endl;
-
+    
     return 0;
 }
