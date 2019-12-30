@@ -15,7 +15,7 @@ The main objective of this assignment is to simmulate the behavior of a search e
 1. Folder architecture
 
 ```sh
-$ ./moviesdb
+$   ./moviesdb
     ./stopwords.txt
     ./LocalSearchEngine
 ```
