@@ -21,6 +21,6 @@ $   ./moviesdb
 ```
     
 2. Compiling
-    Compile using Makefile
+    Compile using Makefile.
 
 3. Enter keywords or 0 to exit program.
