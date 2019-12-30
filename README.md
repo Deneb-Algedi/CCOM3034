@@ -13,9 +13,12 @@ The main objective of this assignment is to simmulate the behavior of a search e
 ## How to use
 
 1. Folder architecture
-    ./moviesdb
+
+```sh
+$ ./moviesdb
     ./stopwords.txt
     ./LocalSearchEngine
+```
     
 2. Compiling
     Compile using Makefile
