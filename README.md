@@ -12,7 +12,7 @@ The main objective of this assignment is to simmulate the behavior of a search e
 
 ## How to use
 
-1. Folder architecture
+1. Folder architecture:
 
 ```sh
 $   ./moviesdb
@@ -20,7 +20,7 @@ $   ./moviesdb
     ./LocalSearchEngine
 ```
     
-2. Compiling
+2. Compiling:
     Compile using Makefile.
 
 3. Enter keywords or 0 to exit program.
